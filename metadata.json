@@ -1,0 +1,6 @@
+{
+  "name": "Vortex Downloader",
+  "description": "Descarga videos de YouTube, TikTok e Instagram de manera sencilla seleccionando la calidad deseada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

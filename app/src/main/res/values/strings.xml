@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Vortex Downloader</string>
+    <string name="app_description">Descarga videos de YouTube, TikTok e Instagram</string>
+    <string name="input_hint">Pega el enlace del video aquí...</string>
+    <string name="download_button">Descargar</string>
+    <string name="fetching_info">Obteniendo información del video...</string>
+    <string name="download_success">¡Descarga en cola exitosamente!</string>
+    <string name="download_error">Error de descarga: %s</string>
+    <string name="invalid_url">Enlace inválido. Por favor, ingresa un enlace de YouTube, TikTok o Instagram.</string>
+    <string name="quality_label">Calidad de Video</string>
+    <string name="download_history">Historial de Descargas</string>
+    <string name="no_history">No hay descargas recientes</string>
+    <string name="clear_history">Limpiar Historial</string>
+    <string name="active_downloads">Descargas Activas</string>
+    <string name="settings_title">Ajustes del Servidor</string>
+</resources>
